@@ -35,6 +35,9 @@ jobs:
           java-version: '17'
           distribution: 'temurin'
           cache: maven
+        
+      - name: Set DB_URL for CI
+         run: echo "DB_URL=jdbc:postgresql://postgres:5432/postgres" >> $GITHUB_ENV
 
       - name: Wait for Postgres to be ready
         run: |
