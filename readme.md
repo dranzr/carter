@@ -30,5 +30,5 @@ docker-compose up -d
 ```
 
 ### TODO:
-[x] Add testcontainers
-[x] Add flyway migrations
+- [] Add testcontainers
+- [] Add flyway migrations
