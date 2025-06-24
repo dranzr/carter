@@ -25,8 +25,9 @@ A full-featured ordering system built with Java and Spring Boot.
 - Docker & Docker Compose
 - Maven Wrapper (`./mvnw`)
 - Postman
+- taskfile
 
-### Run
+### Build it through Taskfile automation
 ```taskfile
 task start_infra
 ```
