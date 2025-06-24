@@ -16,7 +16,7 @@ A full-featured ordering system built with Java and Spring Boot.
 - Docker Compose
 - GitHub Actions
 - Postman
-- Portainer(easier docker management)
+- Portainer (easier docker management)
 
 ## Getting Started
 
