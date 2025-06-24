@@ -5,7 +5,6 @@ A full-featured ordering system built with Java and Spring Boot.
 ## Features
 - RESTful API with CRUD operations
 - PostgreSQL database integration via Docker
-- JWT authentication with Spring Security
 - Code quality enforced with Lombok and Spotless
 - Automated CI/CD with GitHub Actions and Taskfile
 
