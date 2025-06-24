@@ -27,3 +27,8 @@ A full-featured ordering system built with Java and Spring Boot.
 ### Run PostgreSQL container
 ```bash
 docker-compose up -d
+```
+
+### TODO:
+[] Add testcontainers
+[] Add flyway migrations
