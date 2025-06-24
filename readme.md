@@ -15,6 +15,7 @@ A full-featured ordering system built with Java and Spring Boot.
 - Maven Wrapper
 - Docker Compose
 - GitHub Actions
+- Postman
 
 ## Getting Started
 
@@ -22,6 +23,7 @@ A full-featured ordering system built with Java and Spring Boot.
 - Java 17 (SDKMAN recommended)
 - Docker & Docker Compose
 - Maven Wrapper (`./mvnw`)
+- Postman
 
 ### Run PostgreSQL container
 ```bash
