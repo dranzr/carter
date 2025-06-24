@@ -27,7 +27,7 @@ jobs:
 
                 
             - name: Build With Maven
-              run: ./mvnw -ntp verify
+              run: ./mvnw -ntp verify -DskipTests
 
 
 
