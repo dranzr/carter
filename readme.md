@@ -26,9 +26,9 @@ A full-featured ordering system built with Java and Spring Boot.
 - Maven Wrapper (`./mvnw`)
 - Postman
 
-### Run PostgreSQL container
-```bash
-docker-compose up -d
+### Run
+```taskfile
+task start_infra
 ```
 
 ### TODO:
