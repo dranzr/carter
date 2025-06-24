@@ -3,7 +3,7 @@ name: Carter
 on:
     push: 
         paths: 
-            - **
+            - '**'
         branches:
             - 'main'
 
